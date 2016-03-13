@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<flash_parameters copyright="socusoftFSMTheme">
+    <preferences>
+        <global>
+            <basic_property movieWidth="600" movieHeight="400" html_title="Title" loadStyle="Pie" startAutoPlay="true" continuum="true" socusoftMenu="false" backgroundColor="0x0000ff" hideAdobeMenu="false" photoDynamicShow="true" enableURL="true" transitionArray=""/>
+            <title_property showTitle="true" photoTitleColor="0x000080" photoTitletextsize="12"/>
+            <music_property path="" stream="true" loop="true"/>
+            <photo_property topPadding="1" bottomPadding="1" leftPadding="1" rightPadding="152"/>
+            <properties enable="true" backgroundColor="0xa6caf0" backgroundAlpha="50" cssText="a:link{text-decoration: underline;} a:hover{color:#ff0000; text-decoration: none;} a:active{color:#0000ff;text-decoration: none;} .blue {color:#0000ff; font-size:15px; font-style:italic; text-decoration: underline;} .body{color:#ff5500;font-size:20px;}" align="bottom"/>
+        </global>
+        <thumbnail>
+            <basic_property hidethums="false" thumWidth="150" thumHeight="50" thumSpacing="1" borderColor="0x0080ff" currentBorderColor="0x0000ff"/>
+        </thumbnail>
+    </preferences>
+    <album>
+        <slide jpegURL="thumbs/t_0001.jpg" d_URL="slides/p_0001.jpg" transition="65" panzoom="1" URLTarget="0" phototime="2" url="http://www.flash-slideshow-maker.com" title="mary" width="447" height="387"/>
+        <slide jpegURL="thumbs/t_0002.jpg" d_URL="slides/p_0002.jpg" transition="59" panzoom="1" URLTarget="0" phototime="5" url="http://www.flash-slideshow-maker.com" title="mary" width="447" height="387"><![CDATA[TE VEZ MUY HERMOSA]]></slide>
+        <slide jpegURL="thumbs/t_0003.jpg" d_URL="slides/p_0003.jpg" transition="0" panzoom="1" URLTarget="0" phototime="2" url="http://www.flash-slideshow-maker.com" title="mary" width="447" height="387"/>
+        <slide jpegURL="thumbs/t_0004.jpg" d_URL="slides/p_0004.jpg" transition="0" panzoom="1" URLTarget="0" phototime="2" url="http://www.flash-slideshow-maker.com" title="hermosa" width="447" height="387"/>
+        <slide jpegURL="thumbs/t_0005.jpg" d_URL="slides/p_0005.jpg" transition="0" panzoom="1" URLTarget="0" phototime="2" url="http://www.flash-slideshow-maker.com" title="mary" width="447" height="387"/>
+        <slide jpegURL="thumbs/t_0006.jpg" d_URL="slides/p_0006.jpg" transition="0" panzoom="1" URLTarget="0" phototime="2" url="http://www.flash-slideshow-maker.com" title="mary" width="447" height="387"/>
+        <slide jpegURL="thumbs/t_0007.jpg" d_URL="slides/p_0007.jpg" transition="0" panzoom="1" URLTarget="0" phototime="2" url="http://www.flash-slideshow-maker.com" title="mary" width="447" height="387"/>
+        <slide jpegURL="thumbs/t_0008.jpg" d_URL="slides/p_0008.jpg" transition="0" panzoom="1" URLTarget="0" phototime="2" url="http://www.flash-slideshow-maker.com" title="12729252_1671854469729948_6286989142008565077_n" width="447" height="387"/>
+        <slide jpegURL="thumbs/t_0009.jpg" d_URL="slides/p_0009.jpg" transition="0" panzoom="1" URLTarget="0" phototime="2" url="http://www.flash-slideshow-maker.com" title="mary" width="447" height="387"/>
+    </album>
+</flash_parameters>
